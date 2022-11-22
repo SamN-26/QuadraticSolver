@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quadratic Solver</string>
+    <string name="x_2">x^2</string>
+    <string name="x">x</string>
+    <string name="quadratic_equation_solver">Quadratic Equation Solver</string>
+    <string name="submit">Submit</string>
+</resources>
